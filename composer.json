@@ -1,0 +1,15 @@
+{
+  "name": "laximo/api",
+  "description": "This library for integration with laximo api.",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "guayaquil\\": "com_guayaquil/"
+    }
+  },
+  "require-dev": {},
+  "require": {
+    "twig/twig": "^1.0"
+  }
+}
